@@ -1,0 +1,12 @@
+Jon Danao
+Django
+
+1.loose coupling
+2.consistency
+3.simple and short
+4.rapid application dev
+5.dry - do not repeat
+
+
+project - collection of apps and settings
+
